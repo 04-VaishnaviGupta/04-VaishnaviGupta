@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anyt
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-[![Vaishnavi Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/its.vaishnavigupta) 
+[![Vaishnavi Instagram](https://img.shields.io/badge/Instagram-Vaishnavi%20Gupta-pink?logo=instagram&logoColor=white)](https://www.instagram.com/its.vaishnavigupta) 
 
 <!-- Snake Game Repo View -->
 
