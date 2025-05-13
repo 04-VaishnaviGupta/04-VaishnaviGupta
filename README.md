@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Vaishnavi gupta
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Computer Science Engineer || DevOps Engineer || India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **vaishnavigupta318@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anyt
 - 😄 **Pronouns:** Imran Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🔗 I am a Content Creator. 😊😊
+## 🔗 I am a Computer Science Enginner Student. 😊😊
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
