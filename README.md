@@ -38,9 +38,9 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=04-VaishnaviGupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=04-VaishnaviGupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=04-VaishnaviGupta&theme=dark&hide_border=false)
 
 ## 🌐 Socials:
 [![Vaishnavi Instagram](https://img.shields.io/badge/Instagram-Vaishnavi%20Gupta-pink?logo=instagram&logoColor=white)](https://www.instagram.com/its.vaishnavigupta)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alamimran613) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikyoutuber) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technosnag) 
