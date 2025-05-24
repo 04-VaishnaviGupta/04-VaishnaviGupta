@@ -1,15 +1,13 @@
 # 💫 Hi 👋, I'm Vaishnavi gupta
-**A passionate Computer Science Engineer || DevOps Engineer || India**
+**A passionate Computer Science Engineer ||Data Engineer||UI/UX||Machine learning|| India**
 
 Email Me 👉 ✉️ **vaishnavigupta318@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:** Ml project
+- 🌱 **I’m currently learning:** C++,Javascript
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 📫 **How to reach me:** vaishnavigupta318@gmail.com
+- 😄 **Pronouns:** she/her
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🔗 I am a Computer Science Enginner Student. 😊😊
