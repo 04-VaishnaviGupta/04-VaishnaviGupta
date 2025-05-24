@@ -44,11 +44,9 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 ## 🌐 Socials:
 [![Vaishnavi Instagram](https://img.shields.io/badge/Instagram-Vaishnavi%20Gupta-pink?logo=instagram&logoColor=white)](https://www.instagram.com/its.vaishnavigupta)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishna-b63255311vi-gupta/)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=04-VaishnaviGupta3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
