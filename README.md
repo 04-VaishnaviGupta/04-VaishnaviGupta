@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Vaishnavi gupta
-**A passionate Computer Science Engineer ||Data Engineer||UI/UX||Machine learning|| India**
+**A passionate Computer Science Engineer || Data Engineer || UI/UX || Machine learning || India**
 
 Email Me 👉 ✉️ **vaishnavigupta318@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
